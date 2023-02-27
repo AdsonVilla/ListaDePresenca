@@ -21,5 +21,6 @@ Projeto de uma lista de presença para professores/instrutores, na qual ao digit
 <li>React com a utilização do Vite: npm create vite@latest</li>
 <li>TypeScript com npm: npm install typescript --save-dev</li>
 <li>Para rodar a página: npm run dev</li>
+<li>Colocar em formato de código, para facilitar para usuários rodaremem suas máquinas</li>
 </ul>
 </div>
